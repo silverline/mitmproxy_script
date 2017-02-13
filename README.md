@@ -1,3 +1,3 @@
 # mitmproxy_script
 
-> mitmproxy -T --host -s script_file.py
+# mitmproxy -T --host -s script_file.py
